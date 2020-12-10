@@ -1,3 +1,4 @@
+#!/bin/bash
 cd
 mkdir -p  object_detection/networks/fasterrcnn/dependency
 mkdir -p object_detection/networks/fasterrcnn/model
